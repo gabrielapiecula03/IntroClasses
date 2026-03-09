@@ -1,4 +1,4 @@
-﻿using IntroClasses;
+﻿namespace IntroClasses;
 
 public class Program
 {
